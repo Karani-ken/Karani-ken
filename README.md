@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Karani-ken/Karani-ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Karani-ken ✨ here's some cool staff about me✨ 
 
 - 🔭 I’m currently working on House-finder App
 - 🌱 I’m currently learning Redux with react
