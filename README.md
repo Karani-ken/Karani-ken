@@ -12,4 +12,4 @@ I am Karani-ken ✨ here's some cool staff about me✨
 - 😄 Pronouns: Mr/Bro/Programmer
 - ⚡ Fun fact: loves coding, watching, hicking etc.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karani-ken)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Karani-ken)](https://github.com/anuraghazra/github-readme-stats)
