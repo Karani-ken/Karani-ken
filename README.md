@@ -3,8 +3,8 @@
 
 I am Karani-ken ✨ here's some cool staff about me✨ 
 
-- 🔭 I’m currently working on House-finder App
-- 🌱 I’m currently learning Redux with react
+- 🔭 I’m currently working on .....
+- 🌱 I’m currently learning .Net Fullstack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about MERN stack
